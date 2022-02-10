@@ -1,4 +1,4 @@
-package com.wendi.zoo_keeper_part1;
+package com.wendi.zoo_keeper_part1and2;
 
 public class GorillaTest {
 
